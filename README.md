@@ -1,6 +1,6 @@
 # MilitaryStructure 
 
-This project practices usings inheritnce, interfaces, and polymorphidm, and abstract classes to relate objects to each other themed around military branches and members.
+This project practices usings inheritance, interfaces, and polymorphidm, and abstract classes to relate objects to each other themed around military branches and members.
 
 # What I Learned
 
